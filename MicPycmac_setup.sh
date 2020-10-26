@@ -1,3 +1,4 @@
+sudo apt-get install make imagemagick libimage-exiftool-perl exiv2 proj-bin qt5-default
 
 
 git clone https://github.com/micmacIGN/micmac.git micmac
